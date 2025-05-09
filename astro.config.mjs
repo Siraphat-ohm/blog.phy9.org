@@ -20,7 +20,7 @@ import { remarkReadingTime } from "./src/plugins/remark-reading-time.mjs";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://astronaut.github.io",
+  site: "https://Siraphat-ohm.github.io",
   base: "/",
   trailingSlash: "always",
   integrations: [
