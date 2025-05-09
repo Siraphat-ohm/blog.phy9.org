@@ -4,4 +4,4 @@
 
 - currently Kasetsart University B.Eng. Computer Engineering
 
-::github{repo="siraphat/Siraphat-ohm.github.io"}
+::github{repo="Siraphat-ohm/Siraphat-ohm.github.io"}
